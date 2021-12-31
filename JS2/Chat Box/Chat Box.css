@@ -1,0 +1,26 @@
+body {
+    background: #333;
+}
+
+#box-input {
+    display: grid;
+    height: 50%;
+    align-items: end;
+}
+
+#rsChat {
+    height: 50%;
+}
+
+input {
+    width: 80%;
+    height: 40px;
+}
+
+button {
+    width: 15%;
+    height: 40px;
+}
+.result {
+    width: 100%;
+}
